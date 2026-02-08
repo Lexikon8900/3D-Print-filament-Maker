@@ -29,7 +29,7 @@ The focus lies on:
 
 | Part            | Description                                       |
 | --------------- | ------------------------------------------------- |
-| Auger Drill Bit | 13 mm spiral drill for granulate transport        |
+| Auger Drill Bit | 19 mm spiral drill for granulate transport        |
 | steel pie       | Ø 16 mm, 100 cm length                            |
 | ->              | Acts as melt channel                              |
 | Force Sensor    | Used for pressure / thickness feedback (optional) |
